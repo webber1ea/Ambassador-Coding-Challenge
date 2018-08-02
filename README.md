@@ -1,3 +1,2 @@
-"# Ambassador-Coding-Challenege" 
-"# Ambassador-Coding-Challenege" 
-"# Ambassador-Coding-Challenege" 
+I created this code challenege using only front-end languages.
+To create the layout, I used Bootstrap, HTML, and CSS. I used JavaScript and jQuery to create variables that store the number of clicks the links already created. I created functions to counter how many times the link of each page was clicked. I chose to use target="blank" so the viewer could see the new updated landing page and save their spot on the index page.
